@@ -1,6 +1,7 @@
 # MNIST Digit Recognizer
 
 In this data science and Deep Learning project, we implement a Convolutional Neural Network(CNN) model to recognise and predict labels for handwritten digits using the MNIST dataset.
+
 **Required libraries**: NumPy, Pandas, Matplotlib, Scikit learn, Pickle,Tensorflow,Keras, Tkinter, Pillow
 
 **Technologies used in this project:**
